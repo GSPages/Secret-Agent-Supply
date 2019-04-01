@@ -358,7 +358,7 @@ a {
 
 }
 
-@media only screen and (max-width: 470px) {
+@media only screen and (max-width: 570px) {
   .banner {
     display: flex;
     justify-content: center;
